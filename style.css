@@ -1,3 +1,20 @@
 h1 {
   color: darkblue;
 }
+button {
+  padding: 10px;
+  border-radius: 4px;
+  border: 0;
+  background-color: grey;
+  width: 100px;
+  height: 70px;
+  margin: 30px;
+  font-size: 1.2rem;
+  color: #f0f1db;
+}
+
+.start-game {
+  width: 70px;
+  height: 40px;
+  background-color: green;
+}
